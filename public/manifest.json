@@ -1,0 +1,12 @@
+{
+  "short_name": "Aucto",
+  "name": "Online auction site 🛒 built with Next.js ⚛️, ChakraUI 💅",
+  "lang": "en",
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
